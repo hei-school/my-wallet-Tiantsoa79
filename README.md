@@ -2,15 +2,15 @@
 
 Simplify wallet actions (deposit, withdraw, check balance) and organize personal ID elements (CIN, bank card, business card, permit, ID photos) through this streamlined console app.
 
-**Work in Progress:**
+#### Work in Progress:
 This project is currently undergoing development. Additional features, including enhanced security measures (authentication), wallet customization (color schemes), and the ability to create multiple wallets, are still in progress.
 
-**Installation:**
+#### Installation: 
 To run the wallet app, choose your preferred programming language:
 
-- [Python](link_to_python_installation_guide)
-- [C#](link_to_csharp_installation_guide)
-- [Java](link_to_java_installation_guide)
-- [JavaScript (Node.js)](link_to_javascript_installation_guide)
+- [Python](https://github.com/hei-school/my-wallet-Tiantsoa79/tree/feature/python)
+- [C#](https://github.com/hei-school/my-wallet-Tiantsoa79/tree/feature/c%23)
+- [Java](https://github.com/hei-school/my-wallet-Tiantsoa79/tree/feature/java)
+- [JavaScript (Node.js)](https://github.com/hei-school/my-wallet-Tiantsoa79/tree/feature/javascript)
 
 Feel free to explore the specific instructions for your chosen language to set up and run the wallet application.

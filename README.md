@@ -1,16 +1,7 @@
-### Wallet App
+### Python Wallet App
 
-Simplify wallet actions (deposit, withdraw, check balance) and organize personal ID elements (CIN, bank card, business card, permit, ID photos) through this streamlined console app.
-
-**Work in Progress:**
-This project is currently undergoing development. Additional features, including enhanced security measures (authentication), wallet customization (color schemes), and the ability to create multiple wallets, are still in progress.
-
-**Installation:**
-To run the wallet app, choose your preferred programming language:
-
-- [Python](link_to_python_installation_guide)
-- [C#](link_to_csharp_installation_guide)
-- [Java](link_to_java_installation_guide)
-- [JavaScript (Node.js)](link_to_javascript_installation_guide)
-
-Feel free to explore the specific instructions for your chosen language to set up and run the wallet application.
+#### How to Run
+1. Ensure you have Python installed. If not, download and install it from [Python's official website](https://www.python.org/downloads/). 
+2. Open a terminal or command prompt. 
+3. Navigate to the directory containing the Python script.
+4. Run the script using the command: `python Wallet.py` or `python3 Wallet.py`.

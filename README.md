@@ -3,7 +3,7 @@
 Simplify wallet actions (deposit, withdraw, check balance) and organize personal ID elements (CIN, bank card, business card, permit, ID photos) through this streamlined console app.
 
 **Work in Progress:**
-This project is under development. Features beyond basic financial transactions, such as ID cards (CIN), driver's licenses, and more, are still in progress.
+This project is currently undergoing development. Additional features, including enhanced security measures (authentication), wallet customization (color schemes), and the ability to create multiple wallets, are still in progress.
 
 **Installation:**
 To run the wallet app, choose your preferred programming language:
